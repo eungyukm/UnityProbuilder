@@ -58,3 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+# Ignore buildinfo file
+Assets/StreamingAssets/build_info
+Assets/StreamingAssets/build_info.meta
+UserSettings/EditorUserSettings.asset
+UserSettings/EditorUserSettings.asset.meta
+ServerData/
+ProjectSettings/Packages/com.unity.probuilder/Settings.json
+
+# Ignore Probuilder
+Probuilder/Library/ArtifactDB
+Probuilder/Library/PackageCache/com.unity.burst@1.6.0/.Runtime/hostmac/lld
